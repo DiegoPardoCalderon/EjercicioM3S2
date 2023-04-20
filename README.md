@@ -1,2 +1,2 @@
-# 0023Modulo3Sesion1
-Clase de Introducción a JavaScript
+Ejercicio Modulo 3 Sesion 2
+Seguimos alimentando nuestro proyecto JavaScript
